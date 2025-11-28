@@ -3,9 +3,9 @@
 # from odoo import models, fields, api
 
 
-# class /var/lib/odoo/addons/18.0/gestion_paqueteria(models.Model):
-#     _name = '/var/lib/odoo/addons/18.0/gestion_paqueteria./var/lib/odoo/addons/18.0/gestion_paqueteria'
-#     _description = '/var/lib/odoo/addons/18.0/gestion_paqueteria./var/lib/odoo/addons/18.0/gestion_paqueteria'
+# class gestion_paqueteria(models.Model):
+#     _name = 'gestion_paqueteria.gestion_paqueteria'
+#     _description = 'gestion_paqueteria.gestion_paqueteria'
 
 #     name = fields.Char()
 #     value = fields.Integer()
